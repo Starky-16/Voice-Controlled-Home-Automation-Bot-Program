@@ -32,7 +32,7 @@ How to Run
 
 Clone the repository:
 
-git clone https://github.com/your-username/voice_home_bot.git
+git clone https://github.com/Starky-16/Voice-Controlled-Home-Automation-Bot-Program.git
 cd voice_home_bot
 
 
